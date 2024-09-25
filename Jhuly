@@ -1,0 +1,6 @@
+passagem = 12
+
+if passagem < 15:
+    print("vou viajar")
+else:
+    print("não vou viajar")
